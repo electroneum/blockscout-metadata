@@ -1,0 +1,19 @@
+[
+  {
+    "id": "electroswap-dex",
+    "external": false,
+    "title": "ElectroSwap DEX",
+    "logo": "https://electroswap.io/assets/images/boltpng-fdc0c443900d636867415c99d345df8a.png",
+    "shortDescription": "The Future Of Decentralized Trading",
+    "categories": ["DEX"],
+    "author": "electroswap",
+    "url": "https://electroswap.io/",
+    "description": "The Future Of Decentralized Trading On The Electroneum Network",
+    "site": "https://electroswap.io/",
+    "twitter": "https://x.com/electroswap_dex",
+    "telegram": "",
+    "github": "",
+    "internalWallet": true,
+    "priority": 7
+  }
+]
