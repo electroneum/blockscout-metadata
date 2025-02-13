@@ -1,8 +1,8 @@
 [
   {
-    "id": "electroswap-dex",
+    "id": "electroswap",
     "external": false,
-    "title": "ElectroSwap DEX",
+    "title": "ElectroSwap",
     "logo": "https://electroswap.io/assets/images/boltpng-fdc0c443900d636867415c99d345df8a.png",
     "shortDescription": "The Future Of Decentralized Trading",
     "categories": ["Swaps","Liquid Staking","NFT"],
