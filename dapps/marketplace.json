@@ -15,5 +15,22 @@
     "github": "",
     "internalWallet": true,
     "priority": 7
+  },
+  {
+    "id": "digidex",
+    "external": false,
+    "title": "DigiDEX",
+    "logo": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=262,h=254,fit=crop/dOqbj09QOoUOn5pe/2-squeaky-circle-logo-YX4P5XDE2ef8y8Or.png",
+    "shortDescription": "DigiDEX is an open dex where developers can create Tokens and have the ability to trade on DigiDEX.me",
+    "categories": ["Swaps"],
+    "author": "digidex",
+    "url": "https://swapdigidex.me/#/swap",
+    "description": "DigiDEX is an open dex where developers can create Tokens and have the ability to trade on DigiDEX.me",
+    "site": "https://digidex.me/",
+    "twitter": "",
+    "telegram": "https://t.me/DigitspinCrypto",
+    "github": "",
+    "internalWallet": true,
+    "priority": 7
   }
 ]
