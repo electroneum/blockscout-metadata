@@ -54,7 +54,7 @@
     "id": "geckoterminal",
     "external": true,
     "title": "GeckoTerminal",
-    "logo": "https://s.geckoterminal.com/_next/static/media/logo_dark.6b1547fe.png",
+    "logo": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fs.geckoterminal.com%2F_next%2Fstatic%2Fmedia%2Flogo_icon.845c1574.png&w=256&q=100",
     "shortDescription": "GeckoTerminal is the most comprehensive real-time DEX tracker, built by the team behind CoinGecko. Monitor crypto prices, volume, transactions, liquidity, and more on decentralized exchanges across all blockchains.",
     "categories": ["Swaps","Data & Analytics"],
     "author": "coingecko",
