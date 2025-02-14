@@ -49,5 +49,22 @@
     "github": "",
     "internalWallet": false,
     "priority": 0
+  },
+  {
+    "id": "geckoterminal",
+    "external": true,
+    "title": "GeckoTerminal",
+    "logo": "https://s.geckoterminal.com/_next/static/media/logo_dark.6b1547fe.png",
+    "shortDescription": "GeckoTerminal is the most comprehensive real-time DEX tracker, built by the team behind CoinGecko. Monitor crypto prices, volume, transactions, liquidity, and more on decentralized exchanges across all blockchains.",
+    "categories": ["Swaps","Data & Analytics"],
+    "author": "coingecko",
+    "url": "https://www.geckoterminal.com/electroneum/pools",
+    "description": "GeckoTerminal is the most comprehensive real-time DEX tracker, built by the team behind CoinGecko. Monitor crypto prices, volume, transactions, liquidity, and more on decentralized exchanges across all blockchains.",
+    "site": "https://www.geckoterminal.com/",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "internalWallet": false,
+    "priority": 1
   }
 ]
