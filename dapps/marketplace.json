@@ -14,7 +14,7 @@
     "telegram": "",
     "github": "",
     "internalWallet": true,
-    "priority": 7
+    "priority": 1
   },
   {
     "id": "digidex",
@@ -31,6 +31,23 @@
     "telegram": "https://t.me/DigitspinCrypto",
     "github": "",
     "internalWallet": false,
-    "priority": 7
+    "priority": 0
+  },
+  {
+    "id": "umbria",
+    "external": false,
+    "title": "Umbria",
+    "logo": "https://bridge.umbria.network/assets/images/icon/umbricon.png",
+    "shortDescription": "Bridge your cryptocurrency assets between networks, with the Narni cross-chain bridge",
+    "categories": ["Bridge","Liquid Staking"],
+    "author": "umbria",
+    "url": "https://bridge.umbria.network/bridge/electroneum-ethereum/usdt",
+    "description": "Bridge your cryptocurrency assets between networks, with the Narni cross-chain bridge",
+    "site": "https://bridge.umbria.network/",
+    "twitter": "https://twitter.com/NetworkUmbria",
+    "telegram": "https://t.me/joinchat/GfvrGJJBNMksEwP2",
+    "github": "",
+    "internalWallet": true,
+    "priority": 0
   }
 ]
