@@ -1,5 +1,22 @@
 [
   {
+    "id": "anytask",
+    "external": true,
+    "title": "AnyTask",
+    "logo": "https://anytask.com/img/AnyTask.d60a3bd7.svg",
+    "shortDescription": "A Global Freelance Marketplace",
+    "categories": ["Platform"],
+    "author": "anytask",
+    "url": "https://anytask.com/",
+    "description": "A Global Freelance Marketplace",
+    "site": "https://anytask.com/",
+    "twitter": "https://twitter.com/anytaskofficial",
+    "telegram": "",
+    "github": "",
+    "internalWallet": false,
+    "priority": 2
+  },
+  {
     "id": "electroswap",
     "external": false,
     "title": "ElectroSwap",
