@@ -35,7 +35,7 @@
   },
   {
     "id": "umbria",
-    "external": false,
+    "external": true,
     "title": "Umbria",
     "logo": "https://bridge.umbria.network/assets/images/icon/umbricon.png",
     "shortDescription": "Bridge your cryptocurrency assets between networks, with the Narni cross-chain bridge",
@@ -47,7 +47,7 @@
     "twitter": "https://twitter.com/NetworkUmbria",
     "telegram": "https://t.me/joinchat/GfvrGJJBNMksEwP2",
     "github": "",
-    "internalWallet": true,
+    "internalWallet": false,
     "priority": 0
   }
 ]
