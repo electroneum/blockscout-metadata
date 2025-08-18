@@ -83,22 +83,5 @@
     "github": "",
     "internalWallet": false,
     "priority": 1
-  },
-  {
-    "id": "buddybattles",
-    "external": true,
-    "title": "Buddy Battles",
-    "logo": "https://app.buddybattles.xyz/basebuddyface.png",
-    "shortDescription": "ETN Buddy wants to deliver fun and rewards to users and utility to other projects.",
-    "categories": ["Games","NFT","Platform"],
-    "author": "ETN Buddy",
-    "url": "https://app.buddybattles.xyz",
-    "description": "ETN Buddy wants to deliver fun and rewards to users and utility to other projects.",
-    "site": "https://etn.buddybattles.xyz",
-    "twitter": "https://x.com/etn_buddy",
-    "telegram": "https://t.me/ETNBuddy",
-    "github": "https://github.com/IA-Lopez/EtnBuddyBattles",
-    "internalWallet": false,
-    "priority": 0
   }
 ]
