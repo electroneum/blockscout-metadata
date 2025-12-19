@@ -35,7 +35,7 @@
   },
   {
     "id": "digidex",
-    "external": true,
+    "external": false,
     "title": "DigiDEX",
     "logo": "https://public.electroneum.com/scexplorerassets/digidex_symbol.png",
     "shortDescription": "DigiDEX is an open dex where developers can create Tokens and have the ability to trade on DigiDEX.me",
@@ -52,7 +52,7 @@
   },
   {
     "id": "geckoterminal",
-    "external": true,
+    "external": false,
     "title": "GeckoTerminal",
     "logo": "https://public.electroneum.com/scexplorerassets/geckoterminal_symbol.png",
     "shortDescription": "GeckoTerminal is the most comprehensive real-time DEX tracker, built by the team behind CoinGecko. Monitor crypto prices, volume, transactions, liquidity, and more on decentralized exchanges across all blockchains.",
@@ -69,7 +69,7 @@
   },
   {
     "id": "zypto",
-    "external": true,
+    "external": false,
     "title": "Zypto",
     "logo": "https://public.electroneum.com/scexplorerassets/zypto_symbol.png",
     "shortDescription": "Buy, sell, spend, earn, trade and protect. All in one sleek crypto app.",
@@ -86,7 +86,7 @@
   },
   {
     "id": "alchemypay",
-    "external": true,
+    "external": false,
     "title": "Alchemy Pay",
     "logo": "https://public.electroneum.com/scexplorerassets/alchemy_pay_symbol.png",
     "shortDescription": "Bridging the fiat and crypto global economies",
@@ -103,7 +103,7 @@
   },
   {
     "id": "nexusbridge",
-    "external": true,
+    "external": false,
     "title": "Nexus Bridge",
     "logo": "https://public.electroneum.com/scexplorerassets/hyperlane_symbol.jpg",
     "shortDescription": "Bridge USDC with zero slippage.",
@@ -120,7 +120,7 @@
   },
   {
     "id": "planetetn",
-    "external": true,
+    "external": false,
     "title": "Planet ETN",
     "logo": "https://public.electroneum.com/scexplorerassets/planetetn_symbol.png",
     "shortDescription": "Community tools & resources for the Electroneum Smartchain",
@@ -137,7 +137,7 @@
   },
   {
     "id": "panthart",
-    "external": true,
+    "external": false,
     "title": "Panth.Art",
     "logo": "https://public.electroneum.com/scexplorerassets/panthart.png",
     "shortDescription": "Mint, Trade, and Discover NFTs on the Electronuem ecosystem.",
@@ -154,7 +154,7 @@
   },
   {
     "id": "decentroneum",
-    "external": true,
+    "external": false,
     "title": "Decentroneum",
     "logo": "https://public.electroneum.com/scexplorerassets/decenttroneum_symbol.png",
     "shortDescription": "Empowering the Electroneum smart chain—building an accessible web3 for all.",
