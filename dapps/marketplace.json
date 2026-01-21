@@ -52,7 +52,7 @@
   },
   {
     "id": "geckoterminal",
-    "external": false,
+    "external": true,
     "title": "GeckoTerminal",
     "logo": "https://public.electroneum.com/scexplorerassets/geckoterminal_symbol.png",
     "shortDescription": "GeckoTerminal is the most comprehensive real-time DEX tracker, built by the team behind CoinGecko. Monitor crypto prices, volume, transactions, liquidity, and more on decentralized exchanges across all blockchains.",
@@ -69,7 +69,7 @@
   },
   {
     "id": "zypto",
-    "external": false,
+    "external": true,
     "title": "Zypto",
     "logo": "https://public.electroneum.com/scexplorerassets/zypto_symbol.png",
     "shortDescription": "Buy, sell, spend, earn, trade and protect. All in one sleek crypto app.",
@@ -103,7 +103,7 @@
   },
   {
     "id": "nexusbridge",
-    "external": false,
+    "external": true,
     "title": "Nexus Bridge",
     "logo": "https://public.electroneum.com/scexplorerassets/hyperlane_symbol.jpg",
     "shortDescription": "Bridge USDC with zero slippage.",
@@ -120,7 +120,7 @@
   },
   {
     "id": "planetetn",
-    "external": false,
+    "external": true,
     "title": "Planet ETN",
     "logo": "https://public.electroneum.com/scexplorerassets/planetetn_symbol.png",
     "shortDescription": "Community tools & resources for the Electroneum Smartchain",
@@ -137,7 +137,7 @@
   },
   {
     "id": "panthart",
-    "external": false,
+    "external": true,
     "title": "Panth.Art",
     "logo": "https://public.electroneum.com/scexplorerassets/panthart.png",
     "shortDescription": "Mint, Trade, and Discover NFTs on the Electronuem ecosystem.",
@@ -154,7 +154,7 @@
   },
   {
     "id": "decentroneum",
-    "external": false,
+    "external": true,
     "title": "Decentroneum",
     "logo": "https://public.electroneum.com/scexplorerassets/decenttroneum_symbol.png",
     "shortDescription": "Empowering the Electroneum smart chain—building an accessible web3 for all.",
