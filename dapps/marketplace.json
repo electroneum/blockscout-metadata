@@ -168,5 +168,22 @@
     "github": "",
     "internalWallet": true,
     "priority": 1
+  },
+  {
+    "id": "coreclash",
+    "external": true,
+    "title": "Core Clash Trading Card Game",
+    "logo": "https://coreclashgame.vercel.app/static/media/CoreClashLogo.f08b794255b83c86d91b.png",
+    "shortDescription": "On-chain PvP trading card battles on Electroneum!",
+    "categories": ["Games","NFT","Platform"],
+    "author": "decentroneum",
+    "url": "https://coreclashgame.vercel.app",
+    "description": "On-chain PvP trading card battles on Electroneum! Build teams with Verdant Kin & Queen NFTs, stake $CORE tokens, and clash head-to-head. Strategy meets real rewards on ultra-low-fee blockchain.",
+    "site": "https://planetetn.org/zephyros",
+    "twitter": "https://x.com/planetzephyros",
+    "telegram": "https://t.me/planetzephyros",
+    "github": "https://github.com/ETN-Villain",
+    "internalWallet": true,
+    "priority": 1
   }
 ]
