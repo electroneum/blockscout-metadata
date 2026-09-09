@@ -168,5 +168,39 @@
     "github": "https://github.com/ETN-Villain",
     "internalWallet": true,
     "priority": 1
+  },
+  {
+    "id": "etnradar",
+    "external": true,
+    "title": "ETN Radar",
+    "logo": "https://blockscout-metadata-public.s3.us-east-1.amazonaws.com/etn-radar.png",
+    "shortDescription": "Whale & migration tracking",
+    "categories": ["Data & Analytics"],
+    "author": "GalacticSL",
+    "url": "https://etn-radar.galacticsl.com/#board",
+    "description": "Whale & migration tracking",
+    "site": "https://etn-radar.galacticsl.com/#board",
+    "twitter": "https://x.com/GalacticSL",
+    "telegram": "https://t.me/GalacticSL",
+    "github": "",
+    "internalWallet": false,
+    "priority": 1
+  },
+  {
+    "id": "nftlaunchpad",
+    "external": true,
+    "title": "NFT Launchpad",
+    "logo": "https://blockscout-metadata-public.s3.us-east-1.amazonaws.com/etn-nft-launchpad.png",
+    "shortDescription": "Mint live collections on Electroneum Mainnet.",
+    "categories": ["NFT"],
+    "author": "nft-launchpad",
+    "url": "https://www.etn-nft-launchpad.club/",
+    "description": "Mint live collections on Electroneum Mainnet.",
+    "site": "https://www.etn-nft-launchpad.club/",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "internalWallet": false,
+    "priority": 1
   }
 ]
