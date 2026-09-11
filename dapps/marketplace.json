@@ -202,5 +202,22 @@
     "github": "",
     "internalWallet": false,
     "priority": 1
+  },
+  {
+    "id": "tangem",
+    "external": true,
+    "title": "Tangem Wallet",
+    "logo": "https://blockscout-metadata-public.s3.us-east-1.amazonaws.com/tangem.png",
+    "shortDescription": "Your secure crypto hardware wallet",
+    "categories": ["Wallet"],
+    "author": "tangem",
+    "url": "https://tangem.com/",
+    "description": "Tangem keeps your crypto safe and offline. Store, buy, earn, send, swap, and spend thousands of tokens.",
+    "site": "https://tangem.com/",
+    "twitter": "",
+    "telegram": "",
+    "github": "",
+    "internalWallet": false,
+    "priority": 2
   }
 ]
