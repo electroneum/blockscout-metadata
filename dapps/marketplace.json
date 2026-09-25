@@ -224,7 +224,7 @@
     "id": "bitcity",
     "external": true,
     "title": "BitCity",
-    "logo": "https://blockscout-metadata-public.s3.us-east-1.amazonaws.com/sonarx-logo.jpg",
+    "logo": "https://blockscout-metadata-public.s3.us-east-1.amazonaws.com/bitcity-mark.svg",
     "shortDescription": "Explore entire blockchains as a 3D voxel-style cities.",
     "categories": ["Platform"],
     "author": "bitcity",
